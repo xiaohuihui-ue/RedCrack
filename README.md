@@ -215,3 +215,8 @@ await xhs_session.close_session()
 
 ![](https://github.com/Cialle/RedCrack/blob/master/imgs/alipay.jpg?raw=true)
 ![](https://github.com/Cialle/RedCrack/blob/master/imgs/wechat.jpg?raw=true)
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Cialle/RedCrack&type=date&legend=top-left)](https://www.star-history.com/#Cialle/RedCrack&type=date&legend=top-left)
